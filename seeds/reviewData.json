@@ -1,0 +1,47 @@
+[
+  {
+    "review": "This is a fun vehicle. It likes to do a fuel and refresh mode which is extremely loud. It is supposed to be because when it's not using the motor it needs to get the oil and gas moving around.",
+    "user_id": 2,
+    "vehicle_id": 1
+  },
+  {
+    "review": "This car delivers a large, comfortable, cruising sedan, but it is also surprisingly enjoyable to drive. There's good power, and it has an available adaptive suspension system that is responsive on twisty roads.",
+    "user_id": 3,
+    "vehicle_id": 2
+  },
+  {
+    "review": "This is honestly such a great car, safe, reliable and looks great. Love the way it drives.",
+    "user_id": 1,
+    "vehicle_id": 3
+  },
+  {
+    "review": "It’s quiet, comfortable and generally fun to drive. Not a rocket but definitely quick enough to merge. It is loud on the highway and something to consider if you travel long distances.",
+    "user_id": 4,
+    "vehicle_id": 4
+  },
+  {
+    "review": "I love the way it rides and how smooth it is. It’s so luxury inside of the vehicle and I wouldn’t want any other car!",
+    "user_id": 2,
+    "vehicle_id": 5
+  },
+  {
+    "review": "Clean and mature styling inside and out; excellent ergonomics—all controls are within reach and easy to read; good feature content for the Sport model LED headlights/tail lights and the majority of safety/accident avoidance systems are standard.",
+    "user_id": 3,
+    "vehicle_id": 6
+  },
+  {
+    "review": " Wonderful car. Drives well, responsive transmission, excellent styling. ",
+    "user_id": 1,
+    "vehicle_id": 7
+  },
+  {
+    "review": "That definitely cuts into your travel time - and the uncertainty in mileage estimate adds stress.  The front passenger seat is awkward to enter and exit and the back seat is extremely cramped.",
+    "user_id": 4,
+    "vehicle_id": 8
+  },
+  {
+    "review": "The car is very spacious- especially in the trunk area. The paddle shifters make for quick passing on the highway when necessary, but the CVT is best left to its own devices if driving back roads in sport mode.",
+    "user_id": 5,
+    "vehicle_id": 9
+  }
+]
